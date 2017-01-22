@@ -1,0 +1,21 @@
+# Site settings
+title: One Line At a Time
+header-img: img/home-bg.png
+email: lorealle.bishop@gmail.com
+copyright_name: plainlo
+description: > # this means to ignore newlines until "baseurl:"
+  [lessons in determination] 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  plainlo
+learn_profile: plainlo
+email_username: lorealle.bishop@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
