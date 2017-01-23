@@ -5,7 +5,7 @@ date:   2017-01-21 20:08:21 -0500
 ---
 
 
-Have you ever had The Feeling that you were supposed to something, but were too busy or too distracted or too hung up on Being Perfect, too afraid of the work or failure or what other people might think, and so you never got around to it? And then suddenly a year, five, ten have gone by- but The Feeling is still there, insistent as ever. 
+Have you ever had The Feeling that you were supposed to do something, but were too busy or too distracted or too hung up on Being Perfect, too afraid of the work or failure or what other people might think, and so you never got around to it? And then suddenly a year, five, ten have gone by- but The Feeling is still there, insistent as ever. 
 
 And its not that NOW you are less busy, or less distracted, less hung up on Being Perfect or less afraid *[because you are still all of those things]*. It's that you've realized that NOW is all any of us have got, and you don't want to leave anything undone.
 
