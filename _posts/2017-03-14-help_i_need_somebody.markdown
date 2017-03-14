@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HELP, I NEED SOMEBODY!"
-date:   2017-03-14 05:56:56 +0000
+date:   2017-03-14 01:56:56 -0400
 ---
 
 I have never liked asking for help. 
@@ -18,9 +18,7 @@ And you know what? People *like* helping. They like being able to answer your qu
 
 And you know what else? Asking for help is kind of like everything else- it gets easier [and less scary] the more you do it. 
 
-To all the Helpers:: I do appreciate you being 'round. 
-
-![](https://www.youtube.com/watch?v=1PWk3i9WT-8)
+To all the Helpers:: [I do appreciate you being 'round.](https://www.youtube.com/watch?v=1PWk3i9WT-8) 
 
 
 
